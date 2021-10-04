@@ -6,6 +6,6 @@
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
     <servlet-name>Servlet</servlet-name>
-    <servlet-class>ru.sberbank.Laptenkov.Servlet</servlet-class>
+    <servlet-class>ru.sberbank.laptenkov.Servlet</servlet-class>
   </servlet>
 </web-app>
